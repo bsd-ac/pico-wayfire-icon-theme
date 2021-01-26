@@ -1,0 +1,14 @@
+[Icon Theme]
+Name=PicoWayfire
+Comment=meta icon theme for pico-wayfire
+
+Inherits=BeautyLine,candy-icons,OieIcons,gnome,Adwaita,hicolor
+
+Directories=scalable
+
+[scalable]
+Context=Applications
+Size=96
+MinSize=8
+MaxSize=192
+Type=Scalable
