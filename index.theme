@@ -2,7 +2,7 @@
 Name=PicoWayfire
 Comment=meta icon theme for pico-wayfire
 
-Inherits=OieIcons,BeautyLine,candy-icons,gnome,Adwaita,hicolor
+Inherits=OieIcons,BeautyLine,candy-icons,Hey-classic-dark,Adwaita,hicolor
 
 Directories=scalable
 
